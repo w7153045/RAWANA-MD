@@ -10,4 +10,4 @@ MONGODB: process.env.MONGODB || "mongodb://mongo:bxAukDlIDvhXTIirPpWddKujGOOHaAX
 GEMINI_API_KEY: process.env.GEMINI_API_KEY || "AIzaSyDzyQ7tnQkquWX8bc1y9TE0auCHbC_QQO8",
 tokenm: process.env.GITHUB_TOKEN || "false",
 repo: process.env.GITHUB_REPO || "RAWANA-MD",
-}; 
+};   
